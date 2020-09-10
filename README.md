@@ -1,4 +1,6 @@
-### Hi there 👋
+🔭 I’m currently learning GraphQL
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbmerville&hide=html,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **jbmerville/jbmerville** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
